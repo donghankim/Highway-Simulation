@@ -1,3 +1,7 @@
+# randoms
+.DS_Store
+*.app
+build/
 # Prerequisites
 *.d
 
